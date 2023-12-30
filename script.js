@@ -1,5 +1,5 @@
 document.addEventListener('DOMContentLoaded', () => {
-    const apiKey = '57374d33d772ff574d415b22019bf4a0';
+    const apiKey = 'OWN API KEY';
     const form = document.getElementById('location-form');
     const locationBtn = document.getElementById('location-btn');
 
